@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T18:04:35-05:00",
+  "generated": "2026-10-16T18:05:59-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Team recap",
+      "task": "Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T18:02:56-05:00"
+      "updated": "2026-10-16T18:05:59-05:00"
     },
     {
       "id": "robocop",
@@ -66,15 +66,15 @@
     },
     {
       "id": "lustraxxxa",
-      "name": "Lustraxxxa Wyrmkiss",
+      "name": "Lucy Wrynn",
       "role": "Personal Lane",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Personal lane",
+      "state": "break",
+      "task": "On break",
       "project": "Personal",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "schedule",
       "next": null,
-      "updated": "2026-10-15T08:21:26-05:00"
+      "updated": null
     },
     {
       "id": "sienna-vale",
