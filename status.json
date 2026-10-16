@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T18:05:59-05:00",
+  "generated": "2026-10-16T18:21:03-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Upgrading HQ live view",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T18:05:59-05:00"
+      "updated": "2026-10-16T18:19:52-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 6:15 pm",
+      "next": "Work check-in at 6:30 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -128,8 +128,8 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "working",
-      "task": "Paperwork check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
       "signal": "app activity",
