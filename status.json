@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T17:15:25-05:00",
+  "generated": "2026-10-16T17:28:36-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T17:13:08-05:00"
+      "updated": "2026-10-16T17:28:36-05:00"
     },
     {
       "id": "robocop",
@@ -32,8 +32,8 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "working",
-      "task": "Care scheduling",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
       "signal": "work files",
@@ -79,9 +79,9 @@
     {
       "id": "sienna-vale",
       "name": "Sienna Vale",
-      "role": "Idea Spark",
+      "role": "Personal Assistant",
       "state": "working",
-      "task": "Personal lane",
+      "task": "Personal Assistant",
       "project": "Personal",
       "routines": 4,
       "signal": "app activity",
@@ -164,8 +164,8 @@
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "working",
-      "task": "X / live check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: X / live check",
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
