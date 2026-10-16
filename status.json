@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T18:21:03-05:00",
+  "generated": "2026-10-16T18:37:43-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Team recap",
+      "task": "Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T18:19:52-05:00"
+      "updated": "2026-10-16T18:29:19-05:00"
     },
     {
       "id": "robocop",
@@ -32,13 +32,13 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Care scheduling",
+      "state": "working",
+      "task": "Care scheduling",
       "project": "Family care",
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-16T17:13:20-05:00"
+      "updated": "2026-10-16T18:29:19-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 6:30 pm",
+      "next": "Work check-in at 6:45 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -80,13 +80,13 @@
       "id": "sienna-vale",
       "name": "Sienna Vale",
       "role": "Personal Assistant",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Personal Assistant",
+      "state": "working",
+      "task": "Personal Assistant",
       "project": "Personal",
       "routines": 4,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-16T17:44:39-05:00"
+      "updated": "2026-10-16T18:29:09-05:00"
     },
     {
       "id": "touchtone",
@@ -128,13 +128,13 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Paperwork check",
+      "state": "working",
+      "task": "Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-10-16T17:52:45-05:00"
+      "updated": "2026-10-16T18:29:54-05:00"
     },
     {
       "id": "lookyliu",
@@ -152,13 +152,13 @@
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Market watch",
+      "state": "working",
+      "task": "Market research",
       "project": "Finances",
       "routines": 7,
-      "signal": "app activity + routine time",
+      "signal": "work files",
       "next": "Sweepstakes hunt at 8:04 am",
-      "updated": "2026-10-16T15:54:23-05:00"
+      "updated": "2026-10-16T18:29:17-05:00"
     },
     {
       "id": "butterfly",
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
+      "state": "working",
+      "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "work files",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-16T16:06:34-05:00"
+      "updated": "2026-10-16T18:29:19-05:00"
     }
   ]
 }
