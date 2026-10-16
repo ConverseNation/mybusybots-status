@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T17:00:41-05:00",
+  "generated": "2026-10-16T17:00:52-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Team recap",
+      "task": "Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T16:57:27-05:00"
+      "updated": "2026-10-16T17:00:41-05:00"
     },
     {
       "id": "robocop",
