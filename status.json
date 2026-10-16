@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T17:00:52-05:00",
+  "generated": "2026-10-16T17:13:08-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Upgrading HQ live view",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T17:00:41-05:00"
+      "updated": "2026-10-16T17:09:48-05:00"
     },
     {
       "id": "robocop",
@@ -80,13 +80,13 @@
       "id": "sienna-vale",
       "name": "Sienna Vale",
       "role": "Idea Spark",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Personal lane",
+      "state": "working",
+      "task": "Personal lane",
       "project": "Personal",
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T13:29:18-05:00"
+      "updated": "2026-10-16T17:07:17-05:00"
     },
     {
       "id": "touchtone",
@@ -164,13 +164,13 @@
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: X / live check",
+      "state": "working",
+      "task": "X / live check",
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
       "next": "X / live check at 5:52 pm",
-      "updated": "2026-10-16T07:20:12-05:00"
+      "updated": "2026-10-16T17:10:08-05:00"
     },
     {
       "id": "autobot",
