@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T17:28:36-05:00",
+  "generated": "2026-10-16T17:33:12-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 5:30 pm",
+      "next": "Work check-in at 5:45 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -80,8 +80,8 @@
       "id": "sienna-vale",
       "name": "Sienna Vale",
       "role": "Personal Assistant",
-      "state": "working",
-      "task": "Personal Assistant",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Personal Assistant",
       "project": "Personal",
       "routines": 4,
       "signal": "app activity",
@@ -128,13 +128,13 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Paperwork check",
+      "state": "working",
+      "task": "Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-10-16T13:55:05-05:00"
+      "updated": "2026-10-16T17:32:27-05:00"
     },
     {
       "id": "lookyliu",
