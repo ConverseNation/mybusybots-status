@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T20:15:38-05:00",
+  "generated": "2026-10-16T20:31:30-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -12,16 +12,16 @@
       "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
-      "next": "Team recap at 8:30 pm",
-      "updated": "2026-10-16T20:15:27-05:00"
+      "signal": "app activity + routine time",
+      "next": "Team recap at 7:00 am",
+      "updated": "2026-10-16T20:19:02-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "working",
-      "task": "Security check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T20:15:26-05:00"
+      "updated": "2026-10-16T20:16:49-05:00"
     },
     {
       "id": "mckenzie",
@@ -56,8 +56,8 @@
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "working",
-      "task": "Map Pack outreach",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Map Pack outreach",
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
@@ -152,8 +152,8 @@
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "working",
-      "task": "Market watch",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Market watch",
       "project": "Finances",
       "routines": 7,
       "signal": "app activity",
@@ -164,13 +164,13 @@
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: X / live check",
+      "state": "working",
+      "task": "X / live check",
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
       "next": "X / live check at 8:10 am",
-      "updated": "2026-10-16T20:00:28-05:00"
+      "updated": "2026-10-16T20:18:12-05:00"
     },
     {
       "id": "autobot",
