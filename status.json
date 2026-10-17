@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T09:45:47-05:00",
+  "generated": "2026-10-17T10:01:57-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-17T09:45:30-05:00"
+      "updated": "2026-10-17T09:59:25-05:00"
     },
     {
       "id": "robocop",
@@ -49,15 +49,15 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 10:00 am",
+      "next": "Work check-in at 10:15 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "working",
-      "task": "Map Pack outreach",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Map Pack outreach",
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
@@ -140,20 +140,20 @@
       "id": "lookyliu",
       "name": "LookyLiu (she/her)",
       "role": "Research Scout",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Research",
+      "state": "working",
+      "task": "Research",
       "project": "Research",
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T06:44:20-05:00"
+      "updated": "2026-10-17T09:50:36-05:00"
     },
     {
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "working",
-      "task": "Market watch",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Market watch",
       "project": "Finances",
       "routines": 7,
       "signal": "app activity",
@@ -169,7 +169,7 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 9:52 am",
+      "next": "X / live check at 11:52 am",
       "updated": "2026-10-17T07:20:48-05:00"
     },
     {
