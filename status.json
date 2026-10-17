@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T21:46:31-05:00",
+  "generated": "2026-10-17T07:05:06-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -13,8 +13,8 @@
       "project": "HQ",
       "routines": 9,
       "signal": "work files",
-      "next": "Team recap at 7:00 am",
-      "updated": "2026-10-16T21:30:39-05:00"
+      "next": "Team recap at 9:15 am",
+      "updated": "2026-10-16T21:46:31-05:00"
     },
     {
       "id": "robocop",
