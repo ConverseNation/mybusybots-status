@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T10:01:57-05:00",
+  "generated": "2026-10-17T10:23:30-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,25 +8,25 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Team recap",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-17T09:59:25-05:00"
+      "updated": "2026-10-17T10:01:57-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Security check",
+      "state": "working",
+      "task": "Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
       "next": "Security check at 8:00 pm",
-      "updated": "2026-10-17T07:08:50-05:00"
+      "updated": "2026-10-17T10:14:10-05:00"
     },
     {
       "id": "safe-harbor",
@@ -49,20 +49,20 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 10:15 am",
+      "next": "Work check-in at 10:30 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Map Pack outreach",
+      "state": "working",
+      "task": "Map Pack outreach",
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T09:40:26-05:00"
+      "updated": "2026-10-17T10:12:37-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -140,8 +140,8 @@
       "id": "lookyliu",
       "name": "LookyLiu (she/her)",
       "role": "Research Scout",
-      "state": "working",
-      "task": "Research",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Research",
       "project": "Research",
       "routines": 0,
       "signal": "app activity",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-17T06:54:47-05:00"
+      "updated": "2026-10-17T10:02:36-05:00"
     }
   ]
 }
