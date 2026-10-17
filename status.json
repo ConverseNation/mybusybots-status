@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T12:15:16-05:00",
+  "generated": "2026-10-17T12:31:29-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Upgrading HQ live view",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-17T12:08:17-05:00"
+      "updated": "2026-10-17T12:16:25-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 12:30 pm",
+      "next": "Work check-in at 12:45 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -80,13 +80,13 @@
       "id": "sienna-vale",
       "name": "Sienna Vale",
       "role": "Personal Assistant",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Personal Assistant",
+      "state": "working",
+      "task": "Personal Assistant",
       "project": "Personal",
       "routines": 4,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-17T11:18:25-05:00"
+      "updated": "2026-10-17T12:18:57-05:00"
     },
     {
       "id": "touchtone",
@@ -192,9 +192,9 @@
       "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Writing H.A.T.E. edition at 2:00 pm",
-      "updated": "2026-10-17T12:10:17-05:00"
+      "updated": "2026-10-17T12:21:46-05:00"
     }
   ]
 }
