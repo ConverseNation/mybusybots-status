@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T20:51:31-05:00",
+  "generated": "2026-10-16T21:09:51-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -12,16 +12,16 @@
       "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity + routine time",
+      "signal": "app activity",
       "next": "Team recap at 7:00 am",
-      "updated": "2026-10-16T20:45:10-05:00"
+      "updated": "2026-10-16T20:58:46-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "working",
-      "task": "Security check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
@@ -32,8 +32,8 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "working",
-      "task": "Care scheduling",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
       "signal": "app activity",
