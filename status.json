@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-16T19:50:41-05:00",
+  "generated": "2026-10-16T20:06:42-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Upgrading HQ live view",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-16T19:39:57-05:00"
+      "updated": "2026-10-16T19:50:42-05:00"
     },
     {
       "id": "robocop",
@@ -25,7 +25,7 @@
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
-      "next": "Security check at 8:00 pm",
+      "next": "Security check at 8:00 am",
       "updated": "2026-10-16T09:14:21-05:00"
     },
     {
@@ -128,13 +128,13 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Paperwork check",
+      "state": "working",
+      "task": "Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T18:29:54-05:00"
+      "updated": "2026-10-16T19:52:58-05:00"
     },
     {
       "id": "lookyliu",
@@ -164,13 +164,13 @@
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: X / live check",
+      "state": "working",
+      "task": "X / live check",
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 7:52 pm",
-      "updated": "2026-10-16T17:10:08-05:00"
+      "next": "X / live check at 8:10 am",
+      "updated": "2026-10-16T20:00:28-05:00"
     },
     {
       "id": "autobot",
