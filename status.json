@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T09:36:33-05:00",
+  "generated": "2026-10-17T09:45:47-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Upgrading HQ live view",
+      "state": "working",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-17T09:20:40-05:00"
+      "updated": "2026-10-17T09:45:30-05:00"
     },
     {
       "id": "robocop",
@@ -26,7 +26,7 @@
       "routines": 1,
       "signal": "app activity",
       "next": "Security check at 8:00 pm",
-      "updated": "2026-10-16T20:48:58-05:00"
+      "updated": "2026-10-17T07:08:50-05:00"
     },
     {
       "id": "safe-harbor",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T21:20:06-05:00"
+      "updated": "2026-10-17T06:20:49-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,20 +49,20 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 9:45 am",
+      "next": "Work check-in at 10:00 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Map Pack outreach",
+      "state": "working",
+      "task": "Map Pack outreach",
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T20:15:34-05:00"
+      "updated": "2026-10-17T09:40:26-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -84,9 +84,9 @@
       "task": "Standing by \u00b7 last: Personal Assistant",
       "project": "Personal",
       "routines": 4,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T18:29:09-05:00"
+      "updated": "2026-10-17T06:54:38-05:00"
     },
     {
       "id": "touchtone",
@@ -146,19 +146,19 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-16T12:19:54-05:00"
+      "updated": "2026-10-17T06:44:20-05:00"
     },
     {
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Market watch",
+      "state": "working",
+      "task": "Market watch",
       "project": "Finances",
       "routines": 7,
       "signal": "app activity",
       "next": "Sweepstakes hunt at 8:04 am",
-      "updated": "2026-10-16T20:15:33-05:00"
+      "updated": "2026-10-17T09:39:17-05:00"
     },
     {
       "id": "butterfly",
@@ -170,7 +170,7 @@
       "routines": 2,
       "signal": "app activity",
       "next": "X / live check at 9:52 am",
-      "updated": "2026-10-16T20:18:12-05:00"
+      "updated": "2026-10-17T07:20:48-05:00"
     },
     {
       "id": "autobot",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-16T18:29:19-05:00"
+      "updated": "2026-10-17T06:54:47-05:00"
     }
   ]
 }
