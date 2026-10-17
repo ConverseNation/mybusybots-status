@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T10:50:05-05:00",
+  "generated": "2026-10-17T11:10:01-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,20 +8,20 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Upgrading HQ live view",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-17T10:38:52-05:00"
+      "updated": "2026-10-17T10:50:05-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "working",
-      "task": "Security check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 11:00 am",
+      "next": "Work check-in at 11:15 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -128,8 +128,8 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "working",
-      "task": "Paperwork check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
@@ -193,7 +193,7 @@
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "work files",
-      "next": "Writing H.A.T.E. edition at 11:00 am",
+      "next": "Writing H.A.T.E. edition at 2:00 pm",
       "updated": "2026-10-17T10:02:36-05:00"
     }
   ]
