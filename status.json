@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T07:19:49-05:00",
+  "generated": "2026-10-18T07:37:14-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,20 +8,20 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Upgrading HQ live view",
+      "state": "working",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 9:15 am",
-      "updated": "2026-10-18T07:02:16-05:00"
+      "updated": "2026-10-18T07:35:26-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "working",
-      "task": "Security check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T06:25:00-05:00"
+      "updated": "2026-10-18T07:20:05-05:00"
     },
     {
       "id": "mckenzie",
@@ -56,13 +56,13 @@
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Map Pack outreach",
+      "state": "working",
+      "task": "Map Pack outreach",
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T06:25:03-05:00"
+      "updated": "2026-10-18T07:35:55-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T10:39:35-05:00"
+      "updated": "2026-10-18T01:15:09-05:00"
     },
     {
       "id": "lookyliu",
@@ -158,7 +158,7 @@
       "routines": 7,
       "signal": "app activity",
       "next": "Sweepstakes hunt at 8:04 am",
-      "updated": "2026-10-18T06:25:13-05:00"
+      "updated": "2026-10-18T07:17:56-05:00"
     },
     {
       "id": "butterfly",
@@ -170,7 +170,7 @@
       "routines": 2,
       "signal": "app activity",
       "next": "X / live check at 8:10 am",
-      "updated": "2026-10-17T07:20:48-05:00"
+      "updated": "2026-10-18T07:21:10-05:00"
     },
     {
       "id": "autobot",
