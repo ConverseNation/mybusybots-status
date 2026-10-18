@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T08:48:10-05:00",
+  "generated": "2026-10-18T09:01:06-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 9:15 am",
-      "updated": "2026-10-18T08:39:57-05:00"
+      "updated": "2026-10-18T08:48:10-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 9:00 am",
+      "next": "Work check-in at 9:15 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -133,7 +133,7 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "app activity",
-      "next": null,
+      "next": "Paperwork check at 8:50 am",
       "updated": "2026-10-18T01:15:09-05:00"
     },
     {
