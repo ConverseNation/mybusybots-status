@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T10:19:06-05:00",
+  "generated": "2026-10-18T10:37:34-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-18T10:18:37-05:00"
+      "updated": "2026-10-18T10:32:17-05:00"
     },
     {
       "id": "robocop",
@@ -32,13 +32,13 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Care scheduling",
+      "state": "working",
+      "task": "Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-18T07:20:05-05:00"
+      "updated": "2026-10-18T10:31:50-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 10:30 am",
+      "next": "Work check-in at 10:45 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -128,20 +128,20 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Paperwork check",
+      "state": "working",
+      "task": "Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Paperwork check at 8:50 am",
-      "updated": "2026-10-18T01:15:09-05:00"
+      "updated": "2026-10-18T10:27:26-05:00"
     },
     {
       "id": "lookyliu",
       "name": "LookyLiu (she/her)",
       "role": "Research Scout",
-      "state": "working",
-      "task": "Research",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Research",
       "project": "Research",
       "routines": 0,
       "signal": "app activity",
@@ -188,8 +188,8 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "working",
-      "task": "Writing H.A.T.E. edition",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "work files",
