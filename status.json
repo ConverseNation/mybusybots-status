@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T13:37:44-05:00",
+  "generated": "2026-10-18T13:52:08-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-18T13:24:59-05:00"
+      "updated": "2026-10-18T13:37:44-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 1:45 pm",
+      "next": "Work check-in at 2:00 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -169,7 +169,7 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 1:52 pm",
+      "next": "X / live check at 3:52 pm",
       "updated": "2026-10-18T07:21:10-05:00"
     },
     {
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
+      "state": "working",
+      "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T12:09:07-05:00"
+      "updated": "2026-10-18T13:45:42-05:00"
     }
   ]
 }
