@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T07:02:16-05:00",
+  "generated": "2026-10-18T07:19:49-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,24 +9,24 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Team recap",
+      "task": "Standing by \u00b7 last: Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 9:15 am",
-      "updated": "2026-10-18T06:25:00-05:00"
+      "updated": "2026-10-18T07:02:16-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Security check",
+      "state": "working",
+      "task": "Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
       "next": "Security check at 8:00 am",
-      "updated": "2026-10-17T20:44:14-05:00"
+      "updated": "2026-10-18T07:09:35-05:00"
     },
     {
       "id": "safe-harbor",
