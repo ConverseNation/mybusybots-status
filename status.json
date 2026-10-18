@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T21:01:08-05:00",
+  "generated": "2026-10-17T21:15:30-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 7:00 am",
-      "updated": "2026-10-17T20:53:57-05:00"
+      "updated": "2026-10-17T21:01:09-05:00"
     },
     {
       "id": "robocop",
@@ -80,13 +80,13 @@
       "id": "sienna-vale",
       "name": "Sienna Vale",
       "role": "Personal Assistant",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Personal Assistant",
+      "state": "working",
+      "task": "Personal Assistant",
       "project": "Personal",
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T13:11:38-05:00"
+      "updated": "2026-10-17T21:02:23-05:00"
     },
     {
       "id": "touchtone",
@@ -188,8 +188,8 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "working",
-      "task": "Writing H.A.T.E. edition",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "work files",
