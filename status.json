@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T18:33:19-05:00",
+  "generated": "2026-10-18T18:54:30-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Upgrading HQ live view",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-18T18:21:03-05:00"
+      "updated": "2026-10-18T18:41:31-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 6:45 pm",
+      "next": "Work check-in at 7:00 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T13:22:12-05:00"
+      "updated": "2026-10-18T18:05:30-05:00"
     },
     {
       "id": "touchtone",
@@ -170,7 +170,7 @@
       "routines": 2,
       "signal": "app activity",
       "next": "X / live check at 7:52 pm",
-      "updated": "2026-10-18T17:09:10-05:00"
+      "updated": "2026-10-18T18:22:14-05:00"
     },
     {
       "id": "autobot",
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
+      "state": "working",
+      "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-18T17:09:51-05:00"
+      "updated": "2026-10-18T18:41:16-05:00"
     }
   ]
 }
