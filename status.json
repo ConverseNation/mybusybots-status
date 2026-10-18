@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T07:37:14-05:00",
+  "generated": "2026-10-18T08:08:38-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "working",
-      "task": "Team recap",
+      "task": "Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 9:15 am",
-      "updated": "2026-10-18T07:35:26-05:00"
+      "updated": "2026-10-18T07:53:46-05:00"
     },
     {
       "id": "robocop",
@@ -25,7 +25,7 @@
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
-      "next": "Security check at 8:00 am",
+      "next": "Security check at 8:00 pm",
       "updated": "2026-10-18T07:09:35-05:00"
     },
     {
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 8:00 am",
+      "next": "Work check-in at 8:15 am",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -61,8 +61,8 @@
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
-      "next": null,
-      "updated": "2026-10-18T07:35:55-05:00"
+      "next": "Map Pack outreach at 8:00 am",
+      "updated": "2026-10-18T08:02:19-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -157,7 +157,7 @@
       "project": "Finances",
       "routines": 7,
       "signal": "app activity",
-      "next": "Sweepstakes hunt at 8:04 am",
+      "next": "Course watch at 8:00 am",
       "updated": "2026-10-18T07:17:56-05:00"
     },
     {
