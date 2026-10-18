@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T17:09:43-05:00",
+  "generated": "2026-10-18T17:20:06-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Upgrading HQ live view",
+      "state": "working",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-18T16:52:05-05:00"
+      "updated": "2026-10-18T17:10:47-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 5:15 pm",
+      "next": "Work check-in at 5:30 pm",
       "updated": "2026-10-16T07:15:50-05:00"
     },
     {
@@ -146,7 +146,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T11:13:24-05:00"
+      "updated": "2026-10-18T16:57:46-05:00"
     },
     {
       "id": "jackpot",
@@ -164,13 +164,13 @@
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: X / live check",
+      "state": "working",
+      "task": "X / live check",
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
       "next": "X / live check at 5:52 pm",
-      "updated": "2026-10-18T07:21:10-05:00"
+      "updated": "2026-10-18T17:09:10-05:00"
     },
     {
       "id": "autobot",
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
+      "state": "working",
+      "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T13:45:42-05:00"
+      "updated": "2026-10-18T17:09:51-05:00"
     }
   ]
 }
