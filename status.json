@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17T21:34:43-05:00",
+  "generated": "2026-10-18T07:02:16-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,12 +9,12 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Upgrading HQ live view",
+      "task": "Standing by \u00b7 last: Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
-      "next": "Team recap at 7:00 am",
-      "updated": "2026-10-17T21:15:30-05:00"
+      "signal": "app activity",
+      "next": "Team recap at 9:15 am",
+      "updated": "2026-10-18T06:25:00-05:00"
     },
     {
       "id": "robocop",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T20:18:37-05:00"
+      "updated": "2026-10-18T06:25:00-05:00"
     },
     {
       "id": "mckenzie",
@@ -62,7 +62,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T20:19:37-05:00"
+      "updated": "2026-10-18T06:25:03-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T21:19:06-05:00"
+      "updated": "2026-10-17T23:02:11-05:00"
     },
     {
       "id": "touchtone",
@@ -158,7 +158,7 @@
       "routines": 7,
       "signal": "app activity",
       "next": "Sweepstakes hunt at 8:04 am",
-      "updated": "2026-10-17T20:18:37-05:00"
+      "updated": "2026-10-18T06:25:13-05:00"
     },
     {
       "id": "butterfly",
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "working",
-      "task": "Writing H.A.T.E. edition",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-17T21:25:32-05:00"
+      "updated": "2026-10-17T22:47:34-05:00"
     }
   ]
 }
