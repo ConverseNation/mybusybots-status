@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T19:47:03-05:00",
+  "generated": "2026-10-18T20:03:12-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-18T19:30:47-05:00"
+      "updated": "2026-10-18T19:47:03-05:00"
     },
     {
       "id": "robocop",
@@ -25,7 +25,7 @@
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
-      "next": "Security check at 8:00 pm",
+      "next": "Security check at 8:00 am",
       "updated": "2026-10-18T07:09:35-05:00"
     },
     {
@@ -169,7 +169,7 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 7:52 pm",
+      "next": "X / live check at 8:10 am",
       "updated": "2026-10-18T18:22:14-05:00"
     },
     {
