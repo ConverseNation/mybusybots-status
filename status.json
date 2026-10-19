@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T21:54:29-05:00",
+  "generated": "2026-10-19T07:01:53-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -9,24 +9,24 @@
       "name": "Jubil",
       "role": "Hub / Coordinator",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Upgrading HQ live view",
+      "task": "Standing by \u00b7 last: Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
-      "next": "Team recap at 7:00 am",
-      "updated": "2026-10-18T21:37:27-05:00"
+      "signal": "app activity",
+      "next": "Team recap at 9:15 am",
+      "updated": "2026-10-18T23:50:21-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "working",
-      "task": "Security check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
       "next": "Security check at 8:00 am",
-      "updated": "2026-10-18T21:40:35-05:00"
+      "updated": "2026-10-18T21:42:10-05:00"
     },
     {
       "id": "safe-harbor",
@@ -36,9 +36,9 @@
       "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-18T20:17:50-05:00"
+      "updated": "2026-10-19T06:23:52-05:00"
     },
     {
       "id": "mckenzie",
@@ -104,8 +104,8 @@
       "id": "dr-eggbot",
       "name": "dr eggbot",
       "role": "Lab Helper",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Lab work",
+      "state": "break",
+      "task": "On break",
       "project": "Lab",
       "routines": 0,
       "signal": "app activity",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Paperwork check at 8:50 am",
-      "updated": "2026-10-18T10:27:26-05:00"
+      "updated": "2026-10-18T23:50:13-05:00"
     },
     {
       "id": "lookyliu",
@@ -194,7 +194,7 @@
       "routines": 3,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-18T18:41:16-05:00"
+      "updated": "2026-10-19T06:15:39-05:00"
     }
   ]
 }
