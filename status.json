@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18T21:37:26-05:00",
+  "generated": "2026-10-18T21:54:29-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,19 +14,19 @@
       "routines": 9,
       "signal": "work files",
       "next": "Team recap at 7:00 am",
-      "updated": "2026-10-18T21:17:11-05:00"
+      "updated": "2026-10-18T21:37:27-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Security check",
+      "state": "working",
+      "task": "Security check",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
       "next": "Security check at 8:00 am",
-      "updated": "2026-10-18T07:09:35-05:00"
+      "updated": "2026-10-18T21:40:35-05:00"
     },
     {
       "id": "safe-harbor",
@@ -36,9 +36,9 @@
       "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T10:31:50-05:00"
+      "updated": "2026-10-18T20:17:50-05:00"
     },
     {
       "id": "mckenzie",
@@ -62,7 +62,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": "Map Pack outreach at 8:00 am",
-      "updated": "2026-10-18T08:08:59-05:00"
+      "updated": "2026-10-18T20:17:51-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-18T18:05:30-05:00"
+      "updated": "2026-10-18T19:16:29-05:00"
     },
     {
       "id": "touchtone",
@@ -158,7 +158,7 @@
       "routines": 7,
       "signal": "app activity",
       "next": "Course watch at 8:00 am",
-      "updated": "2026-10-18T07:17:56-05:00"
+      "updated": "2026-10-18T20:17:49-05:00"
     },
     {
       "id": "butterfly",
