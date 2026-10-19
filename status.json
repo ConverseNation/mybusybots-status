@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T14:59:33-05:00",
+  "generated": "2026-10-19T18:57:43-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-19T11:49:30-05:00"
+      "updated": "2026-10-19T16:33:11-05:00"
     },
     {
       "id": "robocop",
@@ -36,9 +36,9 @@
       "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-19T11:15:52-05:00"
+      "updated": "2026-10-19T15:09:38-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 3:00 pm",
+      "next": "Work check-in at 7:00 pm",
       "updated": "2026-10-19T07:15:53-05:00"
     },
     {
@@ -133,7 +133,7 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "app activity",
-      "next": "Paperwork check at 4:00 pm",
+      "next": "Paperwork check at 7:45 pm",
       "updated": "2026-10-19T12:13:43-05:00"
     },
     {
@@ -152,12 +152,12 @@
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "working",
-      "task": "Market watch",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Market watch",
       "project": "Finances",
       "routines": 7,
       "signal": "app activity",
-      "next": "Course watch at 3:00 pm",
+      "next": "Course watch at 8:00 am",
       "updated": "2026-10-19T14:58:16-05:00"
     },
     {
@@ -169,7 +169,7 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 3:52 pm",
+      "next": "X / live check at 7:52 pm",
       "updated": "2026-10-19T11:55:43-05:00"
     },
     {
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-19T14:25:42-05:00"
+      "updated": "2026-10-19T16:11:14-05:00"
     }
   ]
 }
