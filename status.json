@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T11:24:28-05:00",
+  "generated": "2026-10-19T14:59:33-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-19T08:28:42-05:00"
+      "updated": "2026-10-19T11:49:30-05:00"
     },
     {
       "id": "robocop",
@@ -32,8 +32,8 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "working",
-      "task": "Care scheduling",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
       "signal": "app activity",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 11:30 am",
+      "next": "Work check-in at 3:00 pm",
       "updated": "2026-10-19T07:15:53-05:00"
     },
     {
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-19T08:26:47-05:00"
+      "updated": "2026-10-19T14:02:07-05:00"
     },
     {
       "id": "touchtone",
@@ -98,7 +98,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-19T07:16:01-05:00"
+      "updated": "2026-10-19T11:49:55-05:00"
     },
     {
       "id": "dr-eggbot",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Paperwork check at 4:00 pm",
-      "updated": "2026-10-19T10:19:35-05:00"
+      "updated": "2026-10-19T12:13:43-05:00"
     },
     {
       "id": "lookyliu",
@@ -152,13 +152,13 @@
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Market watch",
+      "state": "working",
+      "task": "Market watch",
       "project": "Finances",
       "routines": 7,
       "signal": "app activity",
-      "next": "Course watch at 11:30 am",
-      "updated": "2026-10-19T09:23:23-05:00"
+      "next": "Course watch at 3:00 pm",
+      "updated": "2026-10-19T14:58:16-05:00"
     },
     {
       "id": "butterfly",
@@ -169,8 +169,8 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 11:52 am",
-      "updated": "2026-10-19T09:21:52-05:00"
+      "next": "X / live check at 3:52 pm",
+      "updated": "2026-10-19T11:55:43-05:00"
     },
     {
       "id": "autobot",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-19T10:20:14-05:00"
+      "updated": "2026-10-19T14:25:42-05:00"
     }
   ]
 }
