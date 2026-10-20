@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-20T14:55:21-05:00",
+  "generated": "2026-10-20T18:57:50-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Team recap",
+      "state": "working",
+      "task": "Team recap",
       "project": "HQ",
       "routines": 9,
       "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-20T12:37:40-05:00"
+      "updated": "2026-10-20T18:45:59-05:00"
     },
     {
       "id": "robocop",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 3:00 pm",
+      "next": "Work check-in at 7:00 pm",
       "updated": "2026-10-19T07:15:53-05:00"
     },
     {
@@ -98,7 +98,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-19T18:34:25-05:00"
+      "updated": "2026-10-20T18:41:35-05:00"
     },
     {
       "id": "dr-eggbot",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
-      "next": "Paperwork check at 4:00 pm",
-      "updated": "2026-10-20T10:21:30-05:00"
+      "signal": "app activity",
+      "next": "Paperwork check at 7:45 pm",
+      "updated": "2026-10-20T15:48:31-05:00"
     },
     {
       "id": "lookyliu",
@@ -153,12 +153,12 @@
       "name": "Jackpot",
       "role": "Money Desk",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Course watch",
-      "project": "Learning",
+      "task": "Standing by \u00b7 last: Market watch",
+      "project": "Finances",
       "routines": 7,
-      "signal": "app activity + routine time",
-      "next": "Course watch at 3:00 pm",
-      "updated": "2026-10-20T13:49:07-05:00"
+      "signal": "app activity",
+      "next": "Course watch at 8:00 am",
+      "updated": "2026-10-20T18:16:22-05:00"
     },
     {
       "id": "butterfly",
@@ -169,8 +169,8 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 3:52 pm",
-      "updated": "2026-10-20T11:59:08-05:00"
+      "next": "X / live check at 7:52 pm",
+      "updated": "2026-10-20T18:15:40-05:00"
     },
     {
       "id": "autobot",
