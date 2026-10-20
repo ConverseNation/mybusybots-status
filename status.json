@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-20T11:00:10-05:00",
+  "generated": "2026-10-20T14:55:21-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 9,
       "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-20T08:09:32-05:00"
+      "updated": "2026-10-20T12:37:40-05:00"
     },
     {
       "id": "robocop",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-20T09:14:11-05:00"
+      "updated": "2026-10-20T11:17:34-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 11:15 am",
+      "next": "Work check-in at 3:00 pm",
       "updated": "2026-10-19T07:15:53-05:00"
     },
     {
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-20T07:41:51-05:00"
+      "updated": "2026-10-20T14:39:00-05:00"
     },
     {
       "id": "touchtone",
@@ -157,8 +157,8 @@
       "project": "Learning",
       "routines": 7,
       "signal": "app activity + routine time",
-      "next": "Market watch at 11:05 am",
-      "updated": "2026-10-20T08:41:50-05:00"
+      "next": "Course watch at 3:00 pm",
+      "updated": "2026-10-20T13:49:07-05:00"
     },
     {
       "id": "butterfly",
@@ -169,8 +169,8 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 11:52 am",
-      "updated": "2026-10-20T09:59:37-05:00"
+      "next": "X / live check at 3:52 pm",
+      "updated": "2026-10-20T11:59:08-05:00"
     },
     {
       "id": "autobot",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
-      "next": "Writing H.A.T.E. edition at 2:00 pm",
-      "updated": "2026-10-20T10:08:11-05:00"
+      "signal": "app activity",
+      "next": null,
+      "updated": "2026-10-20T12:06:29-05:00"
     }
   ]
 }
