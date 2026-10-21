@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-20T18:57:50-05:00",
+  "generated": "2026-10-21T07:03:44-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Team recap",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Team recap",
       "project": "HQ",
       "routines": 9,
       "signal": "app activity",
-      "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-20T18:45:59-05:00"
+      "next": "Team recap at 9:15 am",
+      "updated": "2026-10-21T06:46:49-05:00"
     },
     {
       "id": "robocop",
@@ -25,7 +25,7 @@
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
-      "next": "Security check at 8:00 pm",
+      "next": "Security check at 8:00 am",
       "updated": "2026-10-20T07:09:55-05:00"
     },
     {
@@ -36,9 +36,9 @@
       "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-20T11:17:34-05:00"
+      "updated": "2026-10-21T05:59:31-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 7:00 pm",
+      "next": "Work check-in at 8:00 am",
       "updated": "2026-10-19T07:15:53-05:00"
     },
     {
@@ -62,7 +62,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": "Map Pack outreach at 9:45 am",
-      "updated": "2026-10-20T06:56:08-05:00"
+      "updated": "2026-10-20T20:22:06-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-20T14:39:00-05:00"
+      "updated": "2026-10-21T06:46:47-05:00"
     },
     {
       "id": "touchtone",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "app activity",
-      "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-10-20T15:48:31-05:00"
+      "signal": "work files",
+      "next": "Paperwork check at 8:50 am",
+      "updated": "2026-10-21T05:52:21-05:00"
     },
     {
       "id": "lookyliu",
@@ -158,7 +158,7 @@
       "routines": 7,
       "signal": "app activity",
       "next": "Course watch at 8:00 am",
-      "updated": "2026-10-20T18:16:22-05:00"
+      "updated": "2026-10-21T06:46:46-05:00"
     },
     {
       "id": "butterfly",
@@ -169,7 +169,7 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 7:52 pm",
+      "next": "X / live check at 8:10 am",
       "updated": "2026-10-20T18:15:40-05:00"
     },
     {
@@ -194,7 +194,7 @@
       "routines": 3,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-20T12:06:29-05:00"
+      "updated": "2026-10-21T06:46:49-05:00"
     }
   ]
 }
