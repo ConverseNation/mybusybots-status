@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-21T18:54:14-05:00",
+  "generated": "2026-10-22T06:56:07-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -13,20 +13,20 @@
       "project": "HQ",
       "routines": 9,
       "signal": "work files",
-      "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-21T14:56:42-05:00"
+      "next": "Team recap at 7:00 am",
+      "updated": "2026-10-21T18:54:15-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Security check",
+      "state": "break",
+      "task": "On break",
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
-      "next": "Security check at 8:00 pm",
-      "updated": "2026-10-21T07:16:35-05:00"
+      "next": "Security check at 8:00 am",
+      "updated": "2026-09-15T23:03:43-05:00"
     },
     {
       "id": "safe-harbor",
@@ -38,31 +38,31 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-21T17:10:39-05:00"
+      "updated": "2026-10-21T19:15:45-05:00"
     },
     {
       "id": "mckenzie",
       "name": "McKenzie",
       "role": "Gamer / 3D Lab",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Work check-in",
+      "state": "break",
+      "task": "On break",
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 7:00 pm",
-      "updated": "2026-10-19T07:15:53-05:00"
+      "next": "Work check-in at 8:00 am",
+      "updated": "2026-09-16T00:53:24-05:00"
     },
     {
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Map Pack outreach",
+      "state": "break",
+      "task": "On break",
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
       "next": "Map Pack outreach at 9:45 am",
-      "updated": "2026-10-21T06:29:45-05:00"
+      "updated": "2026-09-15T20:25:59-05:00"
     },
     {
       "id": "lustraxxxa",
@@ -96,9 +96,9 @@
       "task": "Standing by \u00b7 last: Phone desk",
       "project": "Phone lines",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "schedule",
       "next": null,
-      "updated": "2026-10-21T11:07:08-05:00"
+      "updated": "2026-10-21T10:28:13-05:00"
     },
     {
       "id": "dr-eggbot",
@@ -108,9 +108,9 @@
       "task": "Standing by \u00b7 last: Lab work",
       "project": "Lab",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "schedule",
       "next": null,
-      "updated": "2026-10-19T07:16:04-05:00"
+      "updated": "2026-10-21T10:28:13-05:00"
     },
     {
       "id": "grace",
@@ -120,9 +120,9 @@
       "task": "Standing by \u00b7 last: Front desk",
       "project": "Front desk",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "schedule",
       "next": null,
-      "updated": "2026-10-19T07:16:06-05:00"
+      "updated": "2026-10-21T10:28:13-05:00"
     },
     {
       "id": "erinb",
@@ -133,56 +133,56 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
-      "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-10-21T10:31:01-05:00"
+      "next": "Paperwork check at 8:50 am",
+      "updated": "2026-10-22T06:30:36-05:00"
     },
     {
       "id": "lookyliu",
       "name": "LookyLiu (she/her)",
       "role": "Research Scout",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Research",
+      "state": "break",
+      "task": "On break",
       "project": "Research",
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-21T07:59:10-05:00"
+      "updated": "2026-09-15T11:45:34-05:00"
     },
     {
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Market watch",
+      "task": "Standing by \u00b7 last: Market practice",
       "project": "Finances",
       "routines": 7,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Course watch at 8:00 am",
-      "updated": "2026-10-21T14:52:49-05:00"
+      "updated": "2026-10-21T08:15:03-05:00"
     },
     {
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: X / live check",
+      "state": "break",
+      "task": "On break",
       "project": "Social media",
       "routines": 2,
-      "signal": "app activity",
-      "next": "X / live check at 7:52 pm",
-      "updated": "2026-10-21T15:58:10-05:00"
+      "signal": "app activity + routine time",
+      "next": "X / live check at 8:10 am",
+      "updated": "2026-09-15T20:00:34-05:00"
     },
     {
       "id": "autobot",
       "name": "AutoBot",
       "role": "Tesla Watch",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Tesla inventory hunt",
+      "state": "break",
+      "task": "On break",
       "project": "Tesla",
       "routines": 1,
       "signal": "app activity",
       "next": "Tesla inventory hunt at 7:30 am",
-      "updated": "2026-10-19T07:16:16-05:00"
+      "updated": "2026-09-15T20:25:46-05:00"
     },
     {
       "id": "noleetah",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-21T18:03:38-05:00"
+      "updated": "2026-10-21T10:17:27-05:00"
     }
   ]
 }
