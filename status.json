@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-23T11:03:01-05:00",
+  "generated": "2026-10-23T15:26:25-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Team recap",
+      "state": "working",
+      "task": "Upgrading HQ live view",
       "project": "HQ",
       "routines": 9,
-      "signal": "app activity",
+      "signal": "work files",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-23T09:32:18-05:00"
+      "updated": "2026-10-23T15:26:25-05:00"
     },
     {
       "id": "robocop",
@@ -32,13 +32,13 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Care scheduling",
+      "state": "working",
+      "task": "Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-23T06:23:06-05:00"
+      "updated": "2026-10-23T15:19:29-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,8 +49,8 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 11:15 am",
-      "updated": "2026-10-23T05:55:26-05:00"
+      "next": "Work check-in at 3:30 pm",
+      "updated": "2026-10-23T12:13:02-05:00"
     },
     {
       "id": "m4m-cio",
@@ -86,7 +86,7 @@
       "routines": 4,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-23T07:49:41-05:00"
+      "updated": "2026-10-23T13:04:04-05:00"
     },
     {
       "id": "touchtone",
@@ -98,7 +98,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-23T05:56:02-05:00"
+      "updated": "2026-10-23T12:14:00-05:00"
     },
     {
       "id": "dr-eggbot",
@@ -134,7 +134,7 @@
       "routines": 4,
       "signal": "work files",
       "next": "Paperwork check at 4:00 pm",
-      "updated": "2026-10-23T10:11:03-05:00"
+      "updated": "2026-10-23T11:36:54-05:00"
     },
     {
       "id": "lookyliu",
@@ -146,19 +146,19 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-23T08:32:15-05:00"
+      "updated": "2026-10-23T13:31:33-05:00"
     },
     {
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Market watch",
+      "task": "Standing by \u00b7 last: Market practice",
       "project": "Finances",
       "routines": 7,
-      "signal": "app activity",
-      "next": "Market watch at 11:05 am",
-      "updated": "2026-10-23T08:43:56-05:00"
+      "signal": "work files",
+      "next": "Course watch at 3:30 pm",
+      "updated": "2026-10-23T11:38:25-05:00"
     },
     {
       "id": "butterfly",
@@ -169,8 +169,8 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 11:52 am",
-      "updated": "2026-10-23T07:22:51-05:00"
+      "next": "X / live check at 3:52 pm",
+      "updated": "2026-10-23T09:59:58-05:00"
     },
     {
       "id": "autobot",
@@ -182,7 +182,7 @@
       "routines": 1,
       "signal": "app activity",
       "next": "Tesla inventory hunt at 7:30 am",
-      "updated": "2026-10-23T05:55:13-05:00"
+      "updated": "2026-10-23T12:12:14-05:00"
     },
     {
       "id": "noleetah",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
-      "next": "X / live check at 12:00 pm",
-      "updated": "2026-10-23T10:08:57-05:00"
+      "signal": "app activity",
+      "next": "Writing H.A.T.E. edition at 11:00 am",
+      "updated": "2026-10-23T14:29:34-05:00"
     }
   ]
 }
