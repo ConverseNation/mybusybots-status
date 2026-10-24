@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-23T15:26:25-05:00",
+  "generated": "2026-10-23T19:04:45-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,13 +8,13 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Upgrading HQ live view",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Team recap",
       "project": "HQ",
       "routines": 9,
-      "signal": "work files",
+      "signal": "app activity",
       "next": "Team recap at 8:15 pm",
-      "updated": "2026-10-23T15:26:25-05:00"
+      "updated": "2026-10-23T17:06:40-05:00"
     },
     {
       "id": "robocop",
@@ -32,13 +32,13 @@
       "id": "safe-harbor",
       "name": "Safe Harbor",
       "role": "Care Helper",
-      "state": "working",
-      "task": "Care scheduling",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "work files",
+      "signal": "app activity",
       "next": null,
-      "updated": "2026-10-23T15:19:29-05:00"
+      "updated": "2026-10-23T17:06:29-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 3:30 pm",
+      "next": "Work check-in at 7:15 pm",
       "updated": "2026-10-23T12:13:02-05:00"
     },
     {
@@ -133,7 +133,7 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
-      "next": "Paperwork check at 4:00 pm",
+      "next": "Paperwork check at 7:45 pm",
       "updated": "2026-10-23T11:36:54-05:00"
     },
     {
@@ -153,12 +153,12 @@
       "name": "Jackpot",
       "role": "Money Desk",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Market practice",
-      "project": "Finances",
+      "task": "Standing by \u00b7 last: Course watch",
+      "project": "Learning",
       "routines": 7,
-      "signal": "work files",
-      "next": "Course watch at 3:30 pm",
-      "updated": "2026-10-23T11:38:25-05:00"
+      "signal": "app activity + routine time",
+      "next": "Sweepstakes hunt at 8:04 am",
+      "updated": "2026-10-23T14:54:59-05:00"
     },
     {
       "id": "butterfly",
@@ -169,7 +169,7 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 3:52 pm",
+      "next": "X / live check at 7:52 pm",
       "updated": "2026-10-23T09:59:58-05:00"
     },
     {
@@ -194,7 +194,7 @@
       "routines": 3,
       "signal": "app activity",
       "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-23T14:29:34-05:00"
+      "updated": "2026-10-23T17:05:19-05:00"
     }
   ]
 }
