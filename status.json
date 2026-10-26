@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-25T06:59:46-05:00",
+  "generated": "2026-10-25T19:05:06-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -13,8 +13,8 @@
       "project": "HQ",
       "routines": 9,
       "signal": "app activity",
-      "next": "Team recap at 7:00 am",
-      "updated": "2026-10-25T00:44:38-05:00"
+      "next": "Team recap at 8:15 pm",
+      "updated": "2026-10-25T12:12:26-05:00"
     },
     {
       "id": "robocop",
@@ -25,8 +25,8 @@
       "project": "Security",
       "routines": 1,
       "signal": "app activity",
-      "next": "Security check at 8:00 am",
-      "updated": "2026-10-24T20:13:36-05:00"
+      "next": "Security check at 8:00 pm",
+      "updated": "2026-10-25T07:10:43-05:00"
     },
     {
       "id": "safe-harbor",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-24T20:37:54-05:00"
+      "updated": "2026-10-25T07:12:04-05:00"
     },
     {
       "id": "mckenzie",
@@ -49,7 +49,7 @@
       "project": "Gaming",
       "routines": 1,
       "signal": "app activity",
-      "next": "Work check-in at 8:00 am",
+      "next": "Work check-in at 7:15 pm",
       "updated": "2026-10-23T12:13:02-05:00"
     },
     {
@@ -61,7 +61,7 @@
       "project": "Money 4 Motion",
       "routines": 4,
       "signal": "app activity",
-      "next": null,
+      "next": "Map Pack outreach at 8:00 am",
       "updated": "2026-10-24T20:37:52-05:00"
     },
     {
@@ -84,9 +84,9 @@
       "task": "Standing by \u00b7 last: Personal Assistant",
       "project": "Personal",
       "routines": 4,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-24T18:18:51-05:00"
+      "updated": "2026-10-25T12:11:12-05:00"
     },
     {
       "id": "touchtone",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "app activity",
-      "next": null,
-      "updated": "2026-10-24T11:34:52-05:00"
+      "signal": "work files",
+      "next": "Paperwork check at 8:50 am",
+      "updated": "2026-10-25T10:41:11-05:00"
     },
     {
       "id": "lookyliu",
@@ -153,12 +153,12 @@
       "name": "Jackpot",
       "role": "Money Desk",
       "state": "idle",
-      "task": "Standing by \u00b7 last: Market practice",
+      "task": "Standing by \u00b7 last: Market watch",
       "project": "Finances",
       "routines": 7,
-      "signal": "work files",
-      "next": "Sweepstakes hunt at 8:04 am",
-      "updated": "2026-10-25T00:45:26-05:00"
+      "signal": "app activity",
+      "next": "Course watch at 8:00 am",
+      "updated": "2026-10-25T08:34:46-05:00"
     },
     {
       "id": "butterfly",
@@ -169,8 +169,8 @@
       "project": "Social media",
       "routines": 2,
       "signal": "app activity",
-      "next": "X / live check at 8:10 am",
-      "updated": "2026-10-24T17:16:30-05:00"
+      "next": "X / live check at 7:52 pm",
+      "updated": "2026-10-25T07:15:25-05:00"
     },
     {
       "id": "autobot",
@@ -194,7 +194,7 @@
       "routines": 3,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-24T12:08:54-05:00"
+      "updated": "2026-10-25T12:06:16-05:00"
     }
   ]
 }
