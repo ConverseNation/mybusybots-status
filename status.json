@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-27T06:55:52-05:00",
+  "generated": "2026-10-27T18:56:16-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-26T19:00:17-05:00"
+      "updated": "2026-10-27T06:55:52-05:00"
     },
     {
       "id": "robocop",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-26T17:17:35-05:00"
+      "updated": "2026-10-27T09:19:15-05:00"
     },
     {
       "id": "mckenzie",
@@ -86,7 +86,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-26T12:21:22-05:00"
+      "updated": "2026-10-27T12:21:28-05:00"
     },
     {
       "id": "touchtone",
@@ -128,13 +128,13 @@
       "id": "erinb",
       "name": "ErinB",
       "role": "Paperwork Desk",
-      "state": "working",
-      "task": "Paperwork check",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
-      "next": "Paperwork check at 8:50 am",
-      "updated": "2026-10-27T06:54:52-05:00"
+      "next": "Paperwork check at 7:45 pm",
+      "updated": "2026-10-27T12:08:35-05:00"
     },
     {
       "id": "lookyliu",
@@ -146,7 +146,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-26T10:46:14-05:00"
+      "updated": "2026-10-27T08:01:43-05:00"
     },
     {
       "id": "jackpot",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
-      "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-26T16:43:33-05:00"
+      "signal": "work files",
+      "next": null,
+      "updated": "2026-10-27T12:08:26-05:00"
     }
   ]
 }
