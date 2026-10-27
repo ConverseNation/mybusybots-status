@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-26T06:59:27-05:00",
+  "generated": "2026-10-26T19:00:13-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -8,25 +8,25 @@
       "id": "jubil",
       "name": "Jubil",
       "role": "Hub / Coordinator",
-      "state": "working",
-      "task": "Team recap",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Upgrading HQ live view",
       "project": "HQ",
-      "routines": 9,
-      "signal": "app activity",
-      "next": "Team recap at 7:00 am",
-      "updated": "2026-10-26T06:51:37-05:00"
+      "routines": 0,
+      "signal": "work files",
+      "next": null,
+      "updated": "2026-10-26T06:59:27-05:00"
     },
     {
       "id": "robocop",
       "name": "RoboCop",
       "role": "Security Guard",
-      "state": "working",
-      "task": "Security check",
+      "state": "break",
+      "task": "On break",
       "project": "Security",
-      "routines": 1,
-      "signal": "app activity",
-      "next": "Security check at 8:00 am",
-      "updated": "2026-10-26T06:50:37-05:00"
+      "routines": 0,
+      "signal": "schedule",
+      "next": null,
+      "updated": null
     },
     {
       "id": "safe-harbor",
@@ -36,33 +36,33 @@
       "task": "Standing by \u00b7 last: Care scheduling",
       "project": "Family care",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-26T06:04:50-05:00"
+      "updated": "2026-10-26T17:17:35-05:00"
     },
     {
       "id": "mckenzie",
       "name": "McKenzie",
       "role": "Gamer / 3D Lab",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Work check-in",
+      "state": "break",
+      "task": "On break",
       "project": "Gaming",
-      "routines": 1,
-      "signal": "app activity",
-      "next": "Work check-in at 8:00 am",
-      "updated": "2026-10-26T06:04:53-05:00"
+      "routines": 0,
+      "signal": "schedule",
+      "next": null,
+      "updated": null
     },
     {
       "id": "m4m-cio",
       "name": "M4M CIO",
       "role": "Business CIO",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Map Pack outreach",
+      "state": "break",
+      "task": "On break",
       "project": "Money 4 Motion",
-      "routines": 4,
-      "signal": "app activity",
-      "next": "Map Pack outreach at 8:00 am",
-      "updated": "2026-10-26T06:04:52-05:00"
+      "routines": 0,
+      "signal": "schedule",
+      "next": null,
+      "updated": null
     },
     {
       "id": "lustraxxxa",
@@ -80,25 +80,25 @@
       "id": "sienna-vale",
       "name": "Sienna Vale",
       "role": "Personal Assistant",
-      "state": "working",
-      "task": "Personal Assistant",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Personal Assistant",
       "project": "Personal",
-      "routines": 4,
-      "signal": "app activity",
+      "routines": 0,
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-26T06:51:35-05:00"
+      "updated": "2026-10-26T12:21:22-05:00"
     },
     {
       "id": "touchtone",
       "name": "TouchTone",
       "role": "Phone Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Phone desk",
+      "state": "break",
+      "task": "On break",
       "project": "Phone lines",
       "routines": 0,
-      "signal": "app activity",
+      "signal": "schedule",
       "next": null,
-      "updated": "2026-10-26T06:04:57-05:00"
+      "updated": null
     },
     {
       "id": "dr-eggbot",
@@ -110,7 +110,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-26T06:05:03-05:00"
+      "updated": "2026-10-26T10:46:23-05:00"
     },
     {
       "id": "grace",
@@ -122,7 +122,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-26T06:05:03-05:00"
+      "updated": "2026-10-26T10:46:18-05:00"
     },
     {
       "id": "erinb",
@@ -133,8 +133,8 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "app activity",
-      "next": "Paperwork check at 8:50 am",
-      "updated": "2026-10-26T06:05:11-05:00"
+      "next": "Paperwork check at 7:45 pm",
+      "updated": "2026-10-26T15:57:25-05:00"
     },
     {
       "id": "lookyliu",
@@ -146,55 +146,55 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-26T06:13:25-05:00"
+      "updated": "2026-10-26T10:46:14-05:00"
     },
     {
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "working",
-      "task": "Market watch",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Market practice",
       "project": "Finances",
-      "routines": 7,
-      "signal": "app activity",
-      "next": "Course watch at 8:00 am",
-      "updated": "2026-10-26T06:51:37-05:00"
+      "routines": 0,
+      "signal": "work files",
+      "next": null,
+      "updated": "2026-10-25T00:45:26-05:00"
     },
     {
       "id": "butterfly",
       "name": "Butterfly",
       "role": "Social Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: X / live check",
+      "state": "break",
+      "task": "On break",
       "project": "Social media",
-      "routines": 2,
-      "signal": "app activity",
-      "next": "X / live check at 8:10 am",
-      "updated": "2026-10-26T06:05:11-05:00"
+      "routines": 0,
+      "signal": "schedule",
+      "next": null,
+      "updated": null
     },
     {
       "id": "autobot",
       "name": "AutoBot",
       "role": "Tesla Watch",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Tesla inventory hunt",
+      "state": "break",
+      "task": "On break",
       "project": "Tesla",
-      "routines": 1,
-      "signal": "app activity",
-      "next": "Tesla inventory hunt at 7:30 am",
-      "updated": "2026-10-26T06:05:17-05:00"
+      "routines": 0,
+      "signal": "schedule",
+      "next": null,
+      "updated": null
     },
     {
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "working",
-      "task": "Writing H.A.T.E. edition",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "app activity",
-      "next": null,
-      "updated": "2026-10-26T06:51:33-05:00"
+      "next": "Writing H.A.T.E. edition at 11:00 am",
+      "updated": "2026-10-26T16:43:33-05:00"
     }
   ]
 }
