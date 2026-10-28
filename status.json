@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-27T18:56:16-05:00",
+  "generated": "2026-10-28T07:01:42-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-27T06:55:52-05:00"
+      "updated": "2026-10-27T18:56:16-05:00"
     },
     {
       "id": "robocop",
@@ -133,8 +133,8 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
-      "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-10-27T12:08:35-05:00"
+      "next": "Paperwork check at 8:50 am",
+      "updated": "2026-10-27T23:19:46-05:00"
     },
     {
       "id": "lookyliu",
@@ -152,8 +152,8 @@
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Market practice",
+      "state": "break",
+      "task": "On break",
       "project": "Finances",
       "routines": 0,
       "signal": "work files",
