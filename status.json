@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-28T07:01:42-05:00",
+  "generated": "2026-10-28T19:03:07-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-27T18:56:16-05:00"
+      "updated": "2026-10-28T07:01:43-05:00"
     },
     {
       "id": "robocop",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-27T09:19:15-05:00"
+      "updated": "2026-10-28T11:58:02-05:00"
     },
     {
       "id": "mckenzie",
@@ -86,7 +86,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-27T12:21:28-05:00"
+      "updated": "2026-10-28T12:32:25-05:00"
     },
     {
       "id": "touchtone",
@@ -133,8 +133,8 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
-      "next": "Paperwork check at 8:50 am",
-      "updated": "2026-10-27T23:19:46-05:00"
+      "next": "Paperwork check at 7:45 pm",
+      "updated": "2026-10-28T10:16:41-05:00"
     },
     {
       "id": "lookyliu",
@@ -146,7 +146,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-10-27T08:01:43-05:00"
+      "updated": "2026-10-28T08:04:44-05:00"
     },
     {
       "id": "jackpot",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "work files",
-      "next": null,
-      "updated": "2026-10-27T12:08:26-05:00"
+      "signal": "app activity",
+      "next": "Writing H.A.T.E. edition at 11:00 am",
+      "updated": "2026-10-28T13:23:04-05:00"
     }
   ]
 }
