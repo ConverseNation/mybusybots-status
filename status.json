@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-28T19:03:07-05:00",
+  "generated": "2026-10-29T07:06:10-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-28T07:01:43-05:00"
+      "updated": "2026-10-28T19:03:08-05:00"
     },
     {
       "id": "robocop",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "work files",
-      "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-10-28T10:16:41-05:00"
+      "signal": "app activity",
+      "next": "Paperwork check at 8:50 am",
+      "updated": "2026-10-28T23:04:43-05:00"
     },
     {
       "id": "lookyliu",
