@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-31T07:05:21-05:00",
+  "generated": "2026-10-31T18:57:47-05:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-30T19:01:37-05:00"
+      "updated": "2026-10-31T07:05:21-05:00"
     },
     {
       "id": "robocop",
@@ -86,7 +86,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-30T12:13:52-05:00"
+      "updated": "2026-10-31T12:16:51-05:00"
     },
     {
       "id": "touchtone",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-10-30T19:51:38-05:00"
+      "updated": "2026-10-31T11:05:49-05:00"
     },
     {
       "id": "lookyliu",
@@ -193,8 +193,8 @@
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "work files",
-      "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-10-30T16:03:42-05:00"
+      "next": null,
+      "updated": "2026-10-31T12:06:39-05:00"
     }
   ]
 }
