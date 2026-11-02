@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-01T19:04:28-06:00",
+  "generated": "2026-11-02T07:00:41-06:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-01T07:00:35-06:00"
+      "updated": "2026-11-01T19:04:29-06:00"
     },
     {
       "id": "robocop",
@@ -104,8 +104,8 @@
       "id": "dr-eggbot",
       "name": "dr eggbot",
       "role": "Lab Helper",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Lab work",
+      "state": "break",
+      "task": "On break",
       "project": "Lab",
       "routines": 0,
       "signal": "app activity",
@@ -194,7 +194,7 @@
       "routines": 3,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-01T12:07:43-06:00"
+      "updated": "2026-11-02T06:16:02-06:00"
     }
   ]
 }
