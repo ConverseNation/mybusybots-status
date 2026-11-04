@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-03T19:01:32-06:00",
+  "generated": "2026-11-04T07:00:19-06:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-03T07:06:36-06:00"
+      "updated": "2026-11-03T19:01:33-06:00"
     },
     {
       "id": "robocop",
@@ -133,8 +133,8 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "app activity",
-      "next": "Paperwork check at 7:45 pm",
-      "updated": "2026-11-03T17:03:34-06:00"
+      "next": "Paperwork check at 8:50 am",
+      "updated": "2026-11-03T19:52:59-06:00"
     },
     {
       "id": "lookyliu",
@@ -146,7 +146,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-11-03T17:03:22-06:00"
+      "updated": "2026-11-03T20:04:17-06:00"
     },
     {
       "id": "jackpot",
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
+      "state": "working",
+      "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
+      "signal": "work files",
       "next": null,
-      "updated": "2026-11-03T17:03:38-06:00"
+      "updated": "2026-11-04T06:51:34-06:00"
     }
   ]
 }
