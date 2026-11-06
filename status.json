@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-05T06:55:08-06:00",
+  "generated": "2026-11-05T19:05:16-06:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-04T19:02:09-06:00"
+      "updated": "2026-11-05T06:55:08-06:00"
     },
     {
       "id": "robocop",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-04T17:10:50-06:00"
+      "updated": "2026-11-05T17:14:54-06:00"
     },
     {
       "id": "mckenzie",
@@ -86,7 +86,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-04T12:18:02-06:00"
+      "updated": "2026-11-05T12:33:32-06:00"
     },
     {
       "id": "touchtone",
@@ -104,8 +104,8 @@
       "id": "dr-eggbot",
       "name": "dr eggbot",
       "role": "Lab Helper",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Lab work",
+      "state": "break",
+      "task": "On break",
       "project": "Lab",
       "routines": 0,
       "signal": "app activity",
@@ -116,8 +116,8 @@
       "id": "grace",
       "name": "Grace at the Desk",
       "role": "Front Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Front desk",
+      "state": "break",
+      "task": "On break",
       "project": "Front desk",
       "routines": 0,
       "signal": "app activity",
@@ -132,9 +132,9 @@
       "task": "Standing by \u00b7 last: Paperwork check",
       "project": "Paperwork",
       "routines": 4,
-      "signal": "app activity",
-      "next": "Paperwork check at 8:50 am",
-      "updated": "2026-11-04T19:47:49-06:00"
+      "signal": "work files",
+      "next": "Paperwork check at 7:45 pm",
+      "updated": "2026-11-05T09:11:37-06:00"
     },
     {
       "id": "lookyliu",
@@ -146,19 +146,19 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-11-04T20:01:39-06:00"
+      "updated": "2026-11-05T17:11:19-06:00"
     },
     {
       "id": "jackpot",
       "name": "Jackpot",
       "role": "Money Desk",
-      "state": "break",
-      "task": "On break",
+      "state": "idle",
+      "task": "Standing by \u00b7 last: Market practice",
       "project": "Finances",
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-10-30T19:13:02-05:00"
+      "updated": "2026-11-05T14:09:06-06:00"
     },
     {
       "id": "butterfly",
@@ -192,9 +192,9 @@
       "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
-      "signal": "app activity",
-      "next": "Writing H.A.T.E. edition at 11:00 am",
-      "updated": "2026-11-04T16:25:22-06:00"
+      "signal": "work files",
+      "next": "X / live check at 12:00 pm",
+      "updated": "2026-11-05T12:09:01-06:00"
     }
   ]
 }
