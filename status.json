@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-09T07:00:36-06:00",
+  "generated": "2026-11-09T10:10:40-06:00",
   "timezone": "America/Chicago",
   "source": "coded STATUS lines > app message timestamps > work-folder times > routine schedules (metadata only)",
   "bots": [
@@ -14,7 +14,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-08T18:58:19-06:00"
+      "updated": "2026-11-09T07:50:18-06:00"
     },
     {
       "id": "robocop",
@@ -38,7 +38,7 @@
       "routines": 0,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-06T17:12:58-06:00"
+      "updated": "2026-11-09T09:18:40-06:00"
     },
     {
       "id": "mckenzie",
@@ -133,8 +133,8 @@
       "project": "Paperwork",
       "routines": 4,
       "signal": "work files",
-      "next": "Paperwork check at 8:50 am",
-      "updated": "2026-11-08T09:25:38-06:00"
+      "next": "Paperwork check at 4:00 pm",
+      "updated": "2026-11-09T09:16:44-06:00"
     },
     {
       "id": "lookyliu",
@@ -146,7 +146,7 @@
       "routines": 0,
       "signal": "app activity",
       "next": null,
-      "updated": "2026-11-06T12:13:56-06:00"
+      "updated": "2026-11-09T07:58:14-06:00"
     },
     {
       "id": "jackpot",
@@ -188,13 +188,13 @@
       "id": "noleetah",
       "name": "Noleetah Alset",
       "role": "News Desk",
-      "state": "idle",
-      "task": "Standing by \u00b7 last: Writing H.A.T.E. edition",
+      "state": "working",
+      "task": "Writing H.A.T.E. edition",
       "project": "H.A.T.E.",
       "routines": 3,
       "signal": "work files",
       "next": null,
-      "updated": "2026-11-09T06:14:40-06:00"
+      "updated": "2026-11-09T10:05:30-06:00"
     }
   ]
 }
